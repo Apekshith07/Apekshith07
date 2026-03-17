@@ -26,7 +26,7 @@
 🟣 **[EzeCollect](https://ezecollect.in/)** &nbsp;`SaaS`
 Payment collection platform built for distributors — end-to-end SaaS.
 
-🔴 **[Mirror Organics](https://themirrororganics.in/)** &nbsp;`E-commerce`
+🔴 **[Mirror Organics](https://themirrororganics.com/)** &nbsp;`E-commerce`
 Full e-commerce website for an organic products brand.
 
 🟢 **[GreenAura Estates](https://greenauraestates.in/)** &nbsp;`Real Estate`
