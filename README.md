@@ -23,16 +23,16 @@
 
 ## 🚀 Projects
 
-🟣 **[EzeCollect](https://ezecollect.in/)** &nbsp;`SaaS · Own`
+🟣 **[EzeCollect](https://ezecollect.in/)** &nbsp;`SaaS`
 Payment collection platform built for distributors — end-to-end SaaS.
 
-🔴 **[Mirror Organics](https://themirrororganics.in/)** &nbsp;`E-commerce · Client`
+🔴 **[Mirror Organics](https://themirrororganics.in/)** &nbsp;`E-commerce`
 Full e-commerce website for an organic products brand.
 
-🟢 **[GreenAura Estates](https://greenauraestates.in/)** &nbsp;`Real Estate · Own`
+🟢 **[GreenAura Estates](https://greenauraestates.in/)** &nbsp;`Real Estate`
 Real estate landing page with conversion-focused design.
 
-🟡 **[Kronuss](https://kronuss.in/)** &nbsp;`Apparel · Own`
+🟡 **[Kronuss](https://kronuss.in/)** &nbsp;`Apparel`
 Brand website for an apparel label with strong visual identity.
 
 ---
