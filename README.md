@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 Products
+## 🚀 Builds
 
 🟣 **[EzeCollect](https://ezecollect.in/)** &nbsp;`SaaS`
 Payment collection platform built for distributors — end-to-end SaaS.
