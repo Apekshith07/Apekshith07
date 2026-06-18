@@ -1,10 +1,10 @@
 # Hi, I'm Apekshith K 👋
 
-> **Founder @ [SecImpactLabs](https://secimpactlabs.in)** · Web · Apps · Brands
+> **Founder @ [BigzImpact Global Pvt Ltd](https://bigzimpactglobal.com)** · Web · Apps · Brands
 
 📍 Bengaluru &nbsp;&nbsp;|&nbsp;&nbsp; 📧 apekshith.k@outlook.com
 
-![](https://img.shields.io/badge/Founder-SecImpactLabs-7F77DD?style=flat-square)
+![](https://img.shields.io/badge/Founder-BiG-7F77DD?style=flat-square)
 ![](https://img.shields.io/badge/WebDev-Ecommerce%26Brands-1D9E75?style=flat-square)
 ![](https://img.shields.io/badge/AppDev-SaaS%26Tools-185FA5?style=flat-square)
 ![](https://img.shields.io/badge/Marketing-Automation%26Campaigns-BA7517?style=flat-square)
@@ -26,12 +26,6 @@
 🟣 **[EzeCollect](https://ezecollect.in/)** &nbsp;`SaaS`
 Payment collection platform built for distributors — end-to-end SaaS.
 
-🔴 **[Mirror Organics](https://themirrororganics.com/)** &nbsp;`E-commerce`
-Full e-commerce website for an organic products brand.
-
-🟡 **[Kronuss](https://kronuss.in/)** &nbsp;`Apparel`
-Brand website for an apparel label with strong visual identity.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -47,8 +41,8 @@ Brand website for an apparel label with strong visual identity.
 ---
 
 ## 🟢 Currently Building
-AI automation pipelines @ SecImpactLabs — `Claude Code` · `Runway ML` · `ElevenLabs` · `FFmpeg`
+AI automation pipelines @ BiG — `Claude Code` · `Runway ML` · `ElevenLabs` · `FFmpeg`
 
 ---
 
-*Founder · [SecImpactLabs](https://secimpactlabs.in) · Bengaluru*
+*Founder · [BigzImpact Global Pvt Ltd](https://bigzimpactglobal.com) · Bengaluru*
