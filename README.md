@@ -1,6 +1,6 @@
 # Hi, I'm Apekshith K 👋
 
-> **Founder @ [BigzImpact Global Pvt Ltd](https://bigzimpactglobal.com)** · Web · Apps · Brands
+> **Co-founder & CEO @ [BigzImpact Global Pvt Ltd](https://bigzimpactglobal.com)** · Web · Apps · Brands
 
 📍 Bengaluru &nbsp;&nbsp;|&nbsp;&nbsp; 📧 apekshith.k@bigzimpactglobal.com
 
