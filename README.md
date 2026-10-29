@@ -2,7 +2,7 @@
 
 > **Founder @ [BigzImpact Global Pvt Ltd](https://bigzimpactglobal.com)** · Web · Apps · Brands
 
-📍 Bengaluru &nbsp;&nbsp;|&nbsp;&nbsp; 📧 apekshith.k@outlook.com
+📍 Bengaluru &nbsp;&nbsp;|&nbsp;&nbsp; 📧 apekshith.k@bigzimpactglobal.com
 
 ![](https://img.shields.io/badge/Founder-BiG-7F77DD?style=flat-square)
 ![](https://img.shields.io/badge/WebDev-Ecommerce%26Brands-1D9E75?style=flat-square)
